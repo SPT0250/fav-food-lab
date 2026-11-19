@@ -1,0 +1,29 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#090979"/>
+      <stop offset="100%" stop-color="#00d4ff"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="280" rx="20" fill="url(#bg)"/>
+
+  <circle cx="750" cy="30" r="120" fill="#ffffff" opacity="0.08"/>
+  <circle cx="100" cy="280" r="130" fill="#ffffff" opacity="0.08"/>
+
+  <text x="450" y="105" text-anchor="middle"
+        font-size="40" font-weight="bold" fill="white">
+    WELCOME TO MY PROFILE
+  </text>
+
+  <text x="450" y="165" text-anchor="middle"
+        font-size="32" fill="white">
+    นายสุวรรณ พรมอินทร์
+  </text>
+
+  <text x="450" y="215" text-anchor="middle"
+        font-size="22" fill="#dbeafe">
+    IT Student | ปวส.2
+  </text>
+</svg>

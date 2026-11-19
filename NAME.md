@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./banner.svg" width="100%">
+</p>
 ## 👤 ข้อมูลส่วนตัว
 
 | รายการ | ข้อมูล |
